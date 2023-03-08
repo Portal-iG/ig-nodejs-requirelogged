@@ -1,0 +1,12 @@
+{
+	"name": "ig-nodejs-requirelogged",
+	"version": "0.1.0",
+	"author": "Ricardo Massa <rgermano@igcorp.com.br>",
+	"main": "lib/require-logged.js",
+ 	"dependencies": {
+    	"winston": "0.7.x",
+    	"rewire": "2.0.x"
+  	},
+  	"devDependencies": {
+  	}
+}
